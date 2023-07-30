@@ -1,0 +1,60 @@
+.feature-image {
+  border-radius: 20px;
+  box-shadow: 9px 9px 25px grey;
+}
+.youtube-video {
+  border-radius: 15px;
+  box-shadow: 12px 12px 35px black;
+  width: 80%;
+  height: 18rem;
+}
+.map,
+.stat-image {
+  border-radius: 20px;
+  box-shadow: 12px 12px 25px black;
+}
+#asocial {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+.my-vid {
+  border-radius: 20px;
+  box-shadow: 19px 19px 25px black;
+}
+.my-vid2 {
+  border-radius: 20px;
+  box-shadow: 5px 10px 30px rgb(67, 66, 66);
+}
+.welcome1 {
+  background-image: url(../assets/cherry2.jpg);
+  background-size: cover;
+  background-position: 1px;
+  background-repeat: no-repeat;
+  box-shadow: 2px 2px 30px grey;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.welcome2 {
+  background-image: url(../assets/cherry1.jpg);
+  background-position: 100px;
+  background-repeat: no-repeat;
+  box-shadow: 2px 2px 30px grey;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.welcome3 {
+  background-image: url(../assets/cherry4.jpg);
+  /* background-size: cover; */
+  background-position: 1px;
+  background-repeat: no-repeat;
+  box-shadow: 2px 2px 30px grey;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.carousel-inner {
+  box-shadow: 7px 7px 20px black;
+}
